@@ -40,6 +40,7 @@
     "angular2-in-memory-web-api": "0.0.20",
     "bootstrap": "^3.3.6",
     "y18n": ">=3.2.2",
+    "underscore": ">=1.12.1",
   },
   "devDependencies": {
     "@angular/cli": "^1.4.9",
