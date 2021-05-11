@@ -41,6 +41,8 @@
     "bootstrap": "^3.3.6",
     "y18n": ">=3.2.2",
     "underscore": ">=1.12.1",
+    "hosted-git-info": "~> 3.0.8",
+    "ua-parser-js": "~> 0.7.22",
   },
   "devDependencies": {
     "@angular/cli": "^1.4.9",
